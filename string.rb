@@ -1,0 +1,1 @@
+str = "Welcome to NTU Rails 261!"
